@@ -1,0 +1,16 @@
+{
+  "db_host": "",
+  "db_user": "",
+  "db_password": "",
+  "db_database": "",
+  "db_dialect": "",
+  "db_prod": false,
+  "db_port": 5432,
+  "db_pool": {
+    "max": 5,
+    "min": 0,
+    "acquire": 30000,
+    "idle": 10000
+  },
+  "auth_secret": ""
+}
